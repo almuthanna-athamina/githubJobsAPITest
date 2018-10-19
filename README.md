@@ -8,4 +8,4 @@ To run the tests:
 
 4- An HTML report will be generated in the root folder which contains all the test results
 
-Note: you need to have Ruby on your machine
+Note: you need to have Ruby and Bundler on your machine
