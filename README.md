@@ -1,4 +1,5 @@
 To run the tests:
+
 1- Clone the project
 
 2- Run "bundle install"
